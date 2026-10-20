@@ -7,7 +7,15 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "categories": [
+        "电影片",
+        "连续剧",
+        "综艺片",
+        "短剧",
+        "AI漫剧",
+        "体育"
+      ]
     }
   ],
   "lives": [
