@@ -128,19 +128,26 @@
         "学生校园"
       ]
     },
-        {
-      "key": "乐播",
-      "name": "乐播",
+    {
+      "key": "黄色仓库",
+      "name": "黄色仓库",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "playUrl": "https://jx.bfhsck.com/m3u8/?url=",
       "searchable": 1,
       "changeable": 1,
       "playerType": 2,
       "categories": [
-        "亚洲情色",
         "国产自拍",
-        "视频伦理",
-        "少女萝莉"
+        "电车痴汉",
+        "时间停止",
+        "少女萝莉",
+        "魔镜系列",
+        "绝色佳人",
+        "网曝门",
+        "OnlyFans",
+        "AI短剧",
+        "欧美精品"
       ]
     }
   ],
