@@ -1,0 +1,101 @@
+{
+  "spider": "",
+  "wallpaper": "https://api.kdcc.cn",
+  "sites": [
+    {
+      "key": "site_1792499400201",
+      "name": "",
+      "type": 1,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "parses": [
+    {
+      "name": "鏋侀€熻祫婧�",
+      "type": 0,
+      "url": "https://jisuzyjiexi.com/play/?url=",
+      "ext": {
+        "flag": [
+          "鐢垫簮",
+          "鐢佃�嗗墽",
+          "鐭�鍓�",
+          "缁艰壓",
+          "鍔ㄦ极",
+          "浣撹偛璧涗簨",
+          "浼︾悊鐗�"
+        ]
+      }
+    },
+    {
+      "name": "涔愭挱璧勬簮",
+      "type": 0,
+      "url": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "ext": {
+        "flag": [
+          "浜氭床鎯呰壊",
+          "鍥戒骇涓绘挱",
+          "鍥戒骇鑷�鎷�",
+          "鏃犵爜涓撳尯",
+          "娆х編鎬х埍",
+          "瑙嗛�戜鸡鐞�",
+          "灏戝コ钀濊帀",
+          "閲嶅彛鑹叉儏",
+          "寮哄ジ涔变鸡",
+          "浜哄吔鎬т氦"
+        ]
+      }
+    },
+    {
+      "name": "鐢靛奖澶╁爞",
+      "type": 0,
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+      "ext": {
+        "flag": [
+          "鐢垫簮鐗�",
+          "杩炵画鍓�",
+          "鍔ㄦ极鐗�",
+          "缁艰壓鐗�"
+        ]
+      }
+    },
+    {
+      "name": "閲忓瓙璧勬簮",
+      "type": 0,
+      "url": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
+      "ext": {
+        "flag": [
+          "鐢靛奖鐗�",
+          "杩炵画鍓�",
+          "缁艰壓鐗�",
+          "鐭�鍓�",
+          "鍔ㄦ极鐗�",
+          "AI婕�鍓�"
+        ]
+      }
+    },
+    {
+      "name": "榄旈兘璧勬簮",
+      "type": 0,
+      "url": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+      "ext": {
+        "flag": [
+          "鐢靛奖",
+          "杩炵画鍓�",
+          "缁艰壓",
+          "AI婕�鍓�"
+        ]
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "",
+      "type": 0,
+      "url": "",
+      "epg": ""
+    }
+  ]
+}
