@@ -6,15 +6,21 @@
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2,
       "categories": [
-        "电影片",
-        "连续剧",
-        "综艺片",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "爱情片",
+        "动画片",
         "短剧",
         "AI漫剧",
-        "体育"
+        "国产剧",
+        "欧美剧",
+        "伦理片"
       ]
     }
   ],
