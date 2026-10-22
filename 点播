@@ -3,34 +3,12 @@
     {
       "key": "点播源",
       "name": "点播源",
-      "type": 0,
-      "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml/",
+      "type": 1,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list",
       "playUrl": "https://jiexi.souavzyw.top/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产-自拍",
-        "国产-偷拍",
-        "国产-探花",
-        "国产-网红",
-        "国产-户外",
-        "国产-吃瓜",
-        "国产-台湾JVID",
-        "欧美-中文字幕",
-        "欧美-高清无码",
-        "刘玥",
-        "冉冉学姐",
-        "热门大瓜",
-        "迷奸强奸",
-        "SM虐待",
-        "NTR 绿帽",
-        "学生校园",
-        "热门大瓜",
-        "日本-素人",
-        "日本-无码流出",
-        "日本-一本道"
-      ]
+      "filterable": 0
     }
   ],
   "lives": [
