@@ -146,12 +146,16 @@
       "searchable": 1,
       "changeable": 1,
       "playerType": 2,
-      "categories": []
+      "categories": [  ] 
+},
+{
+      "key": "*乐播资源",
+      "name": "*乐播资源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
     },
-{"key": "影库资源","name": "影库资源","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag": "qb,tj","categories": []},
-{"key":"狼少年","name":"狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"玖玖资源","name":"玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*酷伦理","name":"*酷伦理","type":0,"api":"https://api.kudian70.com/api.php/provide/vod/from/kdyun/at/xmlsea/","searchable":0,"quickSearch":0}
   ],
   "lives": [
     {
@@ -161,29 +165,34 @@
           "name": "直播源",
           "urls": [
             "about:blank"
-          ]
+          ,
         }
       ]
     }
   ],
-  "parses": [
+"parses": [
     {
-      "name": "解析1",
+      "name": "牛牛",
       "type": 0,
-      "url": "https://xxx.xxx?jx="
+      "url": "https://jx.xllmcms.com/dplayer/?url=",
+      "ext": {
+        "flag": [
+          "动作片",
+          "科幻片",
+          "战争片",
+          "邵氏电影",
+          "Netflix电影",
+          "古装仙侠",
+          "年代穿越",
+          "脑洞悬疑",
+          "漫剧",
+          "国产剧",
+          "美国剧",
+          "大陆综艺",
+          "港台三级"
+        ]
+      }
     }
-  ],
-  "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "wasu"
   ],
   "ijk": [
     {
