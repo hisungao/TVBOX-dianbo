@@ -138,31 +138,7 @@
         "学生校园"
       ]
     },
-    {
-      "key": "黄色仓库",
-      "name": "黄色仓库",
-      "type": 0,
-      "api": "https://hszyckapi.vip/api.php/provide/vod/at/xml/",
-      "playUrl": "https://jx.bfhsck.com/m3u8/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-          "网红主播",
-          "国产自拍",
-          "欧美精品",
-          "网曝门",
-          "OnlyFans",
-          "绝色佳人",
-          "强制侵犯",
-          "制服诱惑",
-          "少女萝莉",
-          "时间停止",
-          "电车痴汉",
-          "漫改系列",
-          "家庭乱伦"
-      ]
-},
+
 {
       "key": "*乐播资源",
       "name": "*乐播资源",
