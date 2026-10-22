@@ -143,55 +143,55 @@
       "name": "黄色仓库",
       "type": 0,
       "api": "https://hszyckapi.vip/api.php/provide/vod/at/xml/",
+      "playUrl": "https://jx.bfhsck.com/m3u8/?url=",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "categories": [  ] 
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+          "网红主播",
+          "国产自拍",
+          "欧美精品",
+          "网曝门",
+          "OnlyFans",
+          "绝色佳人",
+          "强制侵犯",
+          "制服诱惑",
+          "少女萝莉",
+          "时间停止",
+          "电车痴汉",
+          "漫改系列",
+          "家庭乱伦"
+      ]
 },
 {
       "key": "*乐播资源",
       "name": "*乐播资源",
       "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 0,
       "quickSearch": 0
     },
+    {
+            "key": "av资源",
+            "name": "av资源",
+            "type": 1,
+            "api": "https://api.souavzy.vip/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
   ],
   "lives": [
     {
-      "group": "自定义",
-      "channels": [
-        {
-          "name": "直播源",
-          "urls": [
-            "about:blank"
-          ,
-        }
-      ]
-    }
-  ],
-"parses": [
-    {
-      "name": "牛牛",
-      "type": 0,
-      "url": "https://jx.xllmcms.com/dplayer/?url=",
-      "ext": {
-        "flag": [
-          "动作片",
-          "科幻片",
-          "战争片",
-          "邵氏电影",
-          "Netflix电影",
-          "古装仙侠",
-          "年代穿越",
-          "脑洞悬疑",
-          "漫剧",
-          "国产剧",
-          "美国剧",
-          "大陆综艺",
-          "港台三级"
-        ]
-      }
+      "name": "直播ipv6",
+      "type": "0",
+      "pass": true,
+      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "ijk": [
