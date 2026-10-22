@@ -104,7 +104,16 @@
         "港台综艺",
         "伦理片"
       ]
-    },
+    }, 
+    {
+      "key": "无尽资源",
+      "name": "无尽资源",
+      "type": 0,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }, 
      {
       "key": "搜资源",
       "name": "搜资源",
@@ -141,8 +150,8 @@
     },
 {"key": "影库资源","name": "影库资源","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag": "qb,tj","categories": []},
 {"key":"狼少年","name":"狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"玖玖资源","name":"玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0}
-{"key":"*酷伦理","name":"*酷伦理","type":0,"api":"https://api.kudian70.com/api.php/provide/vod/from/kdyun/at/xmlsea/","searchable":0,"quickSearch":0},
+{"key":"玖玖资源","name":"玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"*酷伦理","name":"*酷伦理","type":0,"api":"https://api.kudian70.com/api.php/provide/vod/from/kdyun/at/xmlsea/","searchable":0,"quickSearch":0}
   ],
   "lives": [
     {
