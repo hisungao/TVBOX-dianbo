@@ -112,15 +112,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    }
-{
+    },
+  {
       "key": "黑料",
       "name": "黑料",
       "type": 1,
       "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 0
- },
+  },
   {
       "key": "*乐播资源",
       "name": "*乐播资源",
@@ -157,7 +157,7 @@
             },
             "changeable": 1
        }
-]
+],
   "ijk": [
     {
       "group": "软解码",
