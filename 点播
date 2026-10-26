@@ -121,43 +121,102 @@
       "searchable": 1,
       "quickSearch": 0
   },
-  {
-      "key": "*乐播资源",
-      "name": "*乐播资源",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-  {
-      "key": "点播源",
-      "name": "2",
-      "type": 1,
-      "api": "https://json.xingba222.com/api.php/provide/vod/",
+    {
+      "key": "星夜",
+      "name": "星夜",
+      "type": 0,
+      "api": " https://xyezy.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
-  {
-   "key": "黑木耳",
-   "name": "黑木耳 | 采集",
-   "type": 1,
-   "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-   "quickSearch": 1
-   },
     {
-            "key": "av资源",
-            "name": "av资源",
-            "type": 1,
-            "api": "https://api.souavzy.vip/api.php/provide/vod/at/json",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-       }
-],
+      "key": "免费",
+      "name": "免费",
+      "type": 1,
+      "api": "https://yuanlib.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "番茄",
+      "name": "番茄",
+      "type": 0,
+      "api": "https://fqzy.me//api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "老P",
+      "name": "老P",
+      "type": 0,
+      "api": "https://apilsbzy.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "精品酒吧",
+      "name": "精品酒吧",
+      "type": 0,
+      "api": " https://jp98.vip/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "森林",
+      "name": "森林",
+      "type": 0,
+      "api": "https://slapibf.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "滴滴",
+      "name": "滴滴",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ],
+  "lives": [
+    {
+      "group": "自定义",
+      "channels": [
+        {
+          "name": "直播源",
+          "urls": [
+            "about:blank"
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "解析1",
+      "type": 0,
+      "url": "https://jx.xllmcms.com/dplayer/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
   "ijk": [
     {
       "group": "软解码",
@@ -380,3 +439,5 @@
     "cms.qdwght.com"
   ]
 }
+
+
